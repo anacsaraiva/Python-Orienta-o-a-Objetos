@@ -3,3 +3,4 @@ config
 description
 hooks/
 info/
+.gitignore
